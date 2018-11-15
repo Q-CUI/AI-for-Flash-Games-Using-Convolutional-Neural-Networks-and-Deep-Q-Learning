@@ -50,7 +50,4 @@ Run it like this in terminal. The longer you let it run, the better it will get.
 python RL.py
 ```
 
-## Credits
-
-This code was by [malreddysid](https://github.com/malreddysid) i've merely wrapped, updated, and documented it. 
 
