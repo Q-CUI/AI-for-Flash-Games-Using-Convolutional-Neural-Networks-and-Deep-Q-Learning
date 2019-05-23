@@ -1,7 +1,7 @@
 # pong_neural_net_live
 
 ## Deep Q Network Example
-This code is originaly by [Siraj](https://github.com/llSourcell/pong_neural_network_live) and  [malreddysid](https://github.com/malreddysid)
+This code is originaly from an other contributor.
 It is a simple implemention of a Deep Q Network which learns to play PONG against a perfectly playing computer
 
 The basis of this code was good but had some issues that didn't work for me. 
