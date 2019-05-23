@@ -1,4 +1,4 @@
-# pong_neural_net_live
+# pong_neural_networks
 
 ## Deep Q Network Example
 This code is originaly from an other contributor.
